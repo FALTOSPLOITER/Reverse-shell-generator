@@ -2,7 +2,7 @@
 Web-based reverse shell generator
 
 <div align="center">
-    <a href="https://weibell.github.io/reverse-shell-generator/">
+    <a href="https://github.com/JINSPLOITER/Reverse-shell-generator/blob/main/docs/screenshot.png/">
         <img src="docs/screenshot.png?raw=true" width="450" alt="Screenshot" />
     </a>
 </div>
