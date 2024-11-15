@@ -7,7 +7,7 @@ Web-based reverse shell generator
     </a>
 </div>
 
-### See it in action: [https://jinsploiter.github.io/Reverse-shell-generator/](https://jinsploiter.github.io/Reverse-shell-generator/)
+### See it in action: https://faltosploiter.github.io/Reverse-shell-generator/
 
 
 Main features:
